@@ -3,7 +3,7 @@ import requests
 
 app = Flask(__name__)
 
-API_URL = "https://hello-cloud-3-1aad.onrender.com"
+API_URL = "postgresql://hello_cloud_2_user:Vg1m8zx1Wm4amlq86oZmgrHlCJ8obDlx@dpg-d3tjhpmr433s73do2ir0-a.oregon-postgres.render.com/hello_cloud_2"
 
 HTML = """
 <!doctype html>
